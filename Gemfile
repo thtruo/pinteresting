@@ -1,8 +1,10 @@
 source 'https://rubygems.org'
-ruby '2.0.0'
+ruby '2.1.1'
+
+# Devise
+gem 'devise', '~> 3.2.4'
 
 # Bootstrap 3 Gem
-
 gem 'bootstrap-sass'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
